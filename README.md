@@ -63,8 +63,7 @@ The system successfully:
 
 ## Authors
 - Yanet Dereje
-
-       **Group Members**
+## Group Members
 Nuhamin Tsige       UGR/5190/17
 Rania Kemal         UGR/3317/17
 Tigist Eshete       UGR/0427/17
